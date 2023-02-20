@@ -2,7 +2,6 @@
 ## About me
 Stworzyłem poniższe portfolio celem ukazania mojego rozwoju w zakresie testowania oprogramowania. Tematem zainteresował mnie mój obecny mentor, który jest Testerem Oprogramowania. 
 
-I am a software tester. I found out about this profession relatively recently and I liked it very much. After two years of work, I care even more about development, so I have set my daily routine on the priority of learning as much as I can in the field, including test automation. Being a software tester has been a milestone in my professional career and the position of developer is my professional goal due to the variety of tasks and development opportunities.
 
 LinkedIn [Michał Patryk Lisowski](http://https://pl.linkedin.com/in/mlisowski1)
 
@@ -10,12 +9,20 @@ LinkedIn [Michał Patryk Lisowski](http://https://pl.linkedin.com/in/mlisowski1)
 * Jira
 * TestLink
 * Postman
+* GitHub
 
 ## Tech skills
-
+* HTML
+* CSS
+* ISTQB
 
 ## Courses
-
+* Praktyczny kurs testowania - Udemy
+* Certyfikat umiejętności przywódczych i komunikacji medialnej 
+* Certyfikat Budowa Relacji z Klientem 
+* Certyfikat z podstaw Agile 
+* Certyfikat z podstaw Scrum 
+* Szkolenie z efektywnego udzielania feedbacku
 
 ## Development plan - mentoring
 1. Introduction to software testing.
