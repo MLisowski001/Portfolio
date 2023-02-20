@@ -25,15 +25,19 @@ LinkedIn [Michał Patryk Lisowski](http://https://pl.linkedin.com/in/mlisowski1)
 * Szkolenie z efektywnego udzielania feedbacku
 
 ## Development plan - mentoring
-1. Introduction to software testing.
-2. Organization of the software testing environment.
-3. Types and levels of tests.
-4. Basic principles of test design.
-5. Test management and maintenance.
-6. Overview of basic testing tools.
-7. UX in the context of quality improvement.
-8. Testing applications for mobile devices
-9. Explanation of the ISTQB Foundation Level issues.
+- [x] Introduction to software testing
+- [x] Organization of the software testing environment
+- [x] Types and levels of tests
+- [x] Basic principles of test design
+- [x] Test management and maintenance
+- [x] Overview of basic testing tools
+- [x] UX in the context of quality improvement
+- [x] Testing applications for mobile devices
+- [x] Explanation of the ISTQB Foundation Level issues
+- [x] API tests
+- [ ] SQL
+- [ ] Automaton tests
+- [ ] jMeter 
 
 
 ## Test cases examples
