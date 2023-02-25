@@ -3,7 +3,7 @@
 Stworzyłem poniższe portfolio celem ukazania mojego rozwoju w zakresie testowania oprogramowania. Tematem zainteresował mnie mój obecny mentor, który jest Testerem Oprogramowania. 
 
 
-LinkedIn [Michał Patryk Lisowski](http://https://pl.linkedin.com/in/mlisowski1)
+LinkedIn [Michał Lisowski](http://https://pl.linkedin.com/in/mlisowski1)
 
 ## Tools
 * Jira
