@@ -41,15 +41,11 @@ LinkedIn [Michał Lisowski](http://https://pl.linkedin.com/in/mlisowski1)
 
 
 ## Test cases examples
-*
+* [Booking.com Test Cases Report](https://drive.google.com/file/d/1nwOECsdGXuo-yhorweS2lM8gzOoq9VLe/view?usp=sharing)
 *
 *
 *
 
-## Test scenarios examples
-*
-*
-*
 
 ## Test plan examples
 * [Booking.com Test Plan](https://drive.google.com/file/d/1ZsKR9yjTS22xNWEx700a3EboWvdC4gWB/view?usp=sharing)
