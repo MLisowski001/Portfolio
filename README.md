@@ -52,7 +52,7 @@ LinkedIn [Michał Lisowski](http://https://pl.linkedin.com/in/mlisowski1)
 *
 
 ## Test plan examples
-*
+*[Booking.com Test Plan]([http://https://pl.linkedin.com/in/mlisowski1](https://drive.google.com/drive/u/2/folders/1uVEyA0cqHjxoVLdUPwp4-4YwmGDxtOEQ))
 
 
 
