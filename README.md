@@ -4,6 +4,7 @@ Stworzyłem poniższe portfolio celem ukazania mojego rozwoju w zakresie testowa
 
 
 LinkedIn [Michał Lisowski](http://https://pl.linkedin.com/in/mlisowski1)
+Google Drive [Testalia](https://drive.google.com/drive/folders/1uVEyA0cqHjxoVLdUPwp4-4YwmGDxtOEQ?usp=share_link)
 
 ## Tools
 * Jira
