@@ -8,12 +8,19 @@ LinkedIn [Michał Lisowski](http://https://pl.linkedin.com/in/mlisowski1)
 Google Drive [Testalia](https://drive.google.com/drive/folders/1uVEyA0cqHjxoVLdUPwp4-4YwmGDxtOEQ?usp=share_link)
 
 ## Tools
-* Jira
+* Jira/Confluence
 * TestLink
 * Postman
 * GitHub
+* DevTools
+* CRM
+* SAP 
+* Tableau
+
 
 ## Tech skills
+* Testy manualne
+* Tworzenie przypadków testowych, scenariuszy oraz raportów
 * HTML
 * CSS
 * ISTQB
