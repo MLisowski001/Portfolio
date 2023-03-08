@@ -14,7 +14,6 @@ Google Drive [Testalia](https://drive.google.com/drive/folders/1uVEyA0cqHjxoVLdU
 * Postman
 * GitHub
 * DevTools
-* SQL
 * CRM
 * SAP 
 * Tableau
@@ -25,6 +24,8 @@ Google Drive [Testalia](https://drive.google.com/drive/folders/1uVEyA0cqHjxoVLdU
 * Tworzenie scenariuszy i przypadków testowych
 * Raportowanie bugów
 * Znajomość zagadnień ISTQB
+* SQL
+* Testy API
 * HTML
 * CSS
 * Prawo jazdy kat. B
