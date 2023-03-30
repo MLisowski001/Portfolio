@@ -40,6 +40,11 @@ Google Drive [Testalia](https://drive.google.com/drive/folders/1uVEyA0cqHjxoVLdU
 * Dzielenie się wiedzą
 * Samodzielność
 
+## Languages
+* Polski ojczysty
+* Angielski B2
+* Rosyjski B1
+
 ## Courses
 * Praktyczny kurs testowania - Udemy
 * Certyfikat umiejętności przywódczych i komunikacji medialnej 
